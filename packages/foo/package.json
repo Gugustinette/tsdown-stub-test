@@ -1,0 +1,9 @@
+{
+  "name": "@tsdown-stub-test/foo",
+  "version": "1.0.0",
+  "main": "dist/index.mjs",
+  "scripts": {
+    "build:tsdown": "tsdown",
+    "build:unbuild": "unbuild"
+  }
+}

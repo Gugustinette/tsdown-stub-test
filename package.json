@@ -1,0 +1,15 @@
+{
+  "name": "tsdown-stub-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
+  "keywords": [],
+  "author": "",
+  "devDependencies": {
+    "tsdown": "https://pkg.pr.new/tsdown@164",
+    "unbuild": "^3.5.0"
+  }
+}

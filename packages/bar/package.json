@@ -1,0 +1,11 @@
+{
+  "name": "@tsdown-stub-test/bar",
+  "version": "1.0.0",
+  "main": "dist/index.mjs",
+  "scripts": {
+    "start": "tsdown && node dist/index.mjs"
+  },
+  "dependencies": {
+    "@tsdown-stub-test/foo": "1.0.0"
+  }
+}

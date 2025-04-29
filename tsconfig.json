@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@tsdown-stub-test/*": ["packages/*/src"]
+    }
+  }
+}
