@@ -2,6 +2,12 @@
 
 ## Usage
 
+- Install dependencies
+```bash
+npm install
+```
+
+- Build and run the packages
 ```bash
 # Build the foo package with tsdown
 npm run build:tsdown --workspace=@tsdown-stub-test/foo
